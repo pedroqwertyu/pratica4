@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pratica4</string>
+    <string-array name="lst_spinner">
+        <item>Cachorro Buldogue</item>
+        <item>Cachorro Labrador</item>
+        <item>Cachorro Pastor-Alemão</item>
+        <item>Cachorro Poodle</item>
+        <item>Cachorro Golden Retriever</item>
+        <item>Cachorro Pug</item>
+    </string-array>
+</resources>
